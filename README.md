@@ -1,6 +1,7 @@
-### Hi there 👋,I am Ramy Campusano Volquez
+![Front end developer](https://ibb.co/4YswsXd)
+
+### Hi there 👋, I am Ramy Campusano Volquez
 #### Front end developer
-![Front end developer](https://cdn.dribbble.com/users/694830/screenshots/2882453/boy_pc_export.png)
 
 I am daniels from the Dominican Republic and I create simples and beautiful websites and web applications. I really enjoy learning languages and frameworks like Vue and VueX. I also enjoy learning new design patterns to improve my design skills.
 
