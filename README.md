@@ -1,4 +1,4 @@
-![Front end developer](https://github.com/sagar-viradiya/sagar-viradiya/blob/master/resources/banner.png)
+![Front end developer](https://github.com/Daniels-not/Daniels-not/blob/main/banner.png)
 
 ### Hi there 👋, I am Ramy Campusano Volquez
 #### Front end developer
