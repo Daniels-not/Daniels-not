@@ -15,7 +15,8 @@ I am daniels from the Dominican Republic and I create simples and beautiful webs
 - 💬 Ask me about anything 
 - ⚡ Fun fact: You don’t have to work in tech to use coding 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniels-not&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniels&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## Socials 📱
