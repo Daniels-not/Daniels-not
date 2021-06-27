@@ -1,9 +1,9 @@
-![Front end developer]()
+![Front end developer](https://github.com/Daniels-not/Daniels-not/blob/main/Untitled%20design.mp4)
 
 ### Hi there 👋, I am Ramy Campusano Volquez
 #### Front end developer
 
-I am daniels from the Dominican Republic and I create simples and beautiful websites and web applications. I really enjoy learning languages and frameworks like Vue and VueX. I also enjoy learning new design patterns to improve my design skills.
+I am daniels from the Dominican Republic and I create simples and beautiful websites and web applications. I really enjoy learning languages and frameworks like Vuejs and VueX. I also enjoy learning new design patterns to improve my design skills.
 
 ## Skills ✨
 
