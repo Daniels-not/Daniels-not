@@ -1,4 +1,4 @@
-![Front end developer](https://github.com/Daniels-not/Daniels-not/blob/main/Untitled%20design.mp4)
+![Front end developer](https://github.com/Daniels-not/Daniels-not/blob/main/Untitled%20design.png)
 
 ### Hi there 👋, I am Ramy Campusano Volquez
 #### Front end developer
