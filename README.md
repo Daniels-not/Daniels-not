@@ -1,4 +1,4 @@
-![Front end developer](https://ibb.co/4YswsXd)
+![Front end developer](https://www.google.com/url?sa=i&url=https%3A%2F%2Facodez.in%2Ffront-end-developer-skills%2F&psig=AOvVaw3VFEk6kkLc5C4zNem-EoaQ&ust=1624920677191000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMCe5L3zuPECFQAAAAAdAAAAABAF)
 
 ### Hi there 👋, I am Ramy Campusano Volquez
 #### Front end developer
