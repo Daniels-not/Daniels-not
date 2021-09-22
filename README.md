@@ -3,7 +3,7 @@
 ### Hi there 👋, I am Ramy Campusano Volquez
 #### Front end developer
 
-I am ramy campusano volquez from the Dominican Republic and I create simples and beautiful websites and web applications. I really enjoy learning languages and frameworks like Vuejs and VueX. I also enjoy learning new design patterns to improve my design skills.
+I am ramy campusano volquez a Front End developer who believes in simplicity. I currently studding on the institute technological of las americas ITLA studying softwares development. It is my passion to conceptualize, develop, and deploy ideas to this great environment we call the internet. I am an advocate for Higher Education advancement and when I set my goals I sink my teeth into them.
 
 ## Skills ✨
 
