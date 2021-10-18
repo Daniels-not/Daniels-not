@@ -11,7 +11,7 @@ I am ramy campusano volquez a Front End developer who believes in simplicity. I 
 
 [<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='html' height='40'>]() [<img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='css' height='40'>]() [<img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt='bootstrap' height='40'>]() [<img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' alt='sass' height='40'>]() [<img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' alt='javascript' height='40'>]() [<img src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D' alt='vuejs' height='40'>]() [<img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white' alt='python' height='40'>]() [<img src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white' alt='django' height='40'>]() [<img src='https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white' alt='ubuntu' height='40'>]() [<img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' alt='mysql' height='40'>]()
 
-- 🔭 I’m currently working on a task manager with reack js  
+- 🔭 I’m currently working on a covid tracker with reack js  
 - 🌱 I’m currently learning React js 
 - 💬 Ask me about anything 
 - ⚡ Fun fact: You don’t have to work in tech to use coding 
