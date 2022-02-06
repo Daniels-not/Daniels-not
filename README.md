@@ -22,7 +22,7 @@ I am ramy campusano volquez a Front End developer who believes in simplicity. I 
       <a href="https://app.daily.dev/Daniels"><img src="https://api.daily.dev/devcards/82b795ebe543437a86032fb4b69ac9ed.png?r=kmu" width="400" alt="Ramy Daniel Campusano      Volquez's Dev Card"/></a>
     </td>
 
-  </tr>
+</tr>
 </table>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniels-not&layout=compact)
