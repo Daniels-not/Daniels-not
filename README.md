@@ -13,11 +13,11 @@ I am ramy campusano volquez a Front End developer who believes in simplicity. I 
 <table>
 <tr>
     <td valign="center">
-      🎓 I am currently pursuing my **Technical studies in Software Development**.
-      🔭 I’m currently working on a **MERM app with react, express, graphQL ...**
-      🌱 I’m currently learning **GraphQL**.
-      💬 Ask me about **anything**.
-      ⚡ Fun fact: **You don’t have to work in tech to use coding**. 
+      🎓 I am currently pursuing my **Technical studies in Software Development**\ .
+      🔭 I’m currently working on a **MERM app with react, express, graphQL ...**\
+      🌱 I’m currently learning **GraphQL**\ .
+      💬 Ask me about **anything**\ .
+      ⚡ Fun fact: **You don’t have to work in tech to use coding** . 
 <td >
       <a href="https://app.daily.dev/Daniels"><img src="https://api.daily.dev/devcards/82b795ebe543437a86032fb4b69ac9ed.png?r=kmu" width="400" alt="Ramy Daniel Campusano      Volquez's Dev Card"/></a>
     </td>
