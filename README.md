@@ -13,6 +13,7 @@ I am ramy campusano volquez a Front End developer who believes in simplicity. I 
 <table>
 <tr>
     <td valign="center">
+        
       🎓 I am currently pursuing my **Technical studies in Software Development**\.
         
       🔭 I’m currently working on a **MERM app with react, express, graphQL ...**\
