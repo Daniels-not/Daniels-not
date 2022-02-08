@@ -7,9 +7,6 @@ I am ramy campusano volquez a Front End developer who believes in simplicity. I 
 
 [Check out my portfolio](https://portfolio-daniels-not.vercel.app/)
 
-<table>
-<tr>
-    <td valign="center">
         
       🎓 I am currently pursuing my **Technical studies in Software Development**.
         
@@ -20,8 +17,6 @@ I am ramy campusano volquez a Front End developer who believes in simplicity. I 
       💬 Ask me about **anything**.
         
       ⚡ Fun fact: **You don’t have to work in tech to use coding**. 
-</tr>
-</table>
 
 ## Skills 🚀
 
