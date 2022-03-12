@@ -32,8 +32,7 @@ I am ramy campusano volquez a Front End developer who believes in simplicity. I 
 </p>
 
 ## Currently Learning 📖
-[<img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' alt='tailwindcss' height='40'>]()
-- NextJS
+[<img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' alt='TypeScript' height='40'>]()
 
 ## Connect With Me 📱
 
