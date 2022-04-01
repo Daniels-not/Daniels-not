@@ -10,9 +10,9 @@ I am ramy campusano volquez a Front End developer who believes in simplicity. I 
         
       🎓 I am currently pursuing my **Technical studies in Software Development**.
         
-      🔭 I’m currently working on a **MERM app with react, express, graphQL ...**
+      🔭 I’m currently working on a **ASP.NET CORE USER CREDENTIALS FUNCTIONALITY**
         
-      🌱 I’m currently learning **GraphQL**.
+      🌱 I’m currently learning **ASP.NET CORE AND ENTITY FRAMEWORK**.
         
       💬 Ask me about **anything**.
         
