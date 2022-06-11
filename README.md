@@ -10,7 +10,7 @@ I am ramy campusano volquez a software engineer who believes in simplicity. I cu
         
       🎓 I am currently pursuing my **Technical studies in Software Development**.
         
-      🔭 I’m currently working on a **ASP.NET CORE USER CREDENTIALS FUNCTIONALITY**
+      🔭 I’m currently working on a **NODE JS API AND FRONT END WITH REACT JS**
         
       🌱 I’m currently learning **ASP.NET CORE AND ENTITY FRAMEWORK**.
         
