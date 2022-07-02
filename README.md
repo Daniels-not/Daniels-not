@@ -32,7 +32,7 @@ I am ramy campusano volquez a software engineer who believes in simplicity. I cu
 </p>
 
 ## Currently Learning 📖
-[<img src='	https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white' alt='Flutter' height='40'>]()
+[<img src='https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white' alt='Flutter' height='40'>]()
 
 ## Connect With Me 📱
 
