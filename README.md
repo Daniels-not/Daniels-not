@@ -8,11 +8,11 @@ I am ramy campusano volquez a software engineer who believes in simplicity. I cu
 [Check out my portfolio](https://portfolio-daniels-not.vercel.app/)
 
         
-      🎓 I am currently pursuing my **Technical studies in Software Development**.
+      🎓 I am currently pursuing my **Bachelor of computer science**.
         
-      🔭 I’m currently working on a **NODE JS API AND FRONT END WITH REACT JS**
+      🔭 I’m currently working on a **Freelancing**
         
-      🌱 I’m currently learning **ASP.NET CORE AND ENTITY FRAMEWORK**.
+      🌱 I’m currently learning **Nextjs**.
         
       💬 Ask me about **anything**.
         
@@ -32,7 +32,7 @@ I am ramy campusano volquez a software engineer who believes in simplicity. I cu
 </p>
 
 ## Currently Learning 📖
-- Docker
+- Next js
 
 ## Connect With Me 📱
 
