@@ -3,7 +3,9 @@
 ### Hi there 👋, I am Ramy Campusano Volquez
 #### Junior Software Engineer
 
-I am ramy campusano volquez a software engineer who believes in simplicity. I currently studying at the institute technological of las Americas ITLA studying software development. It is my passion to conceptualize, develop, and deploy ideas to this great environment we call the internet. I am an advocate for Higher Education advancement and when I set my goals I sink my teeth into them.
+My name is Ramy Campusano Volquez, and I am a software engineer who values simplicity. I am currently studying computer science at Oakwood University, where I am developing my passion for conceptualizing, developing, and deploying ideas to the digital world.
+
+As an advocate for higher education, I am committed to advancing my knowledge and skills to reach my goals. When I set my sights on a target, I put my all into achieving it. I believe in the power of the internet to create positive change, and I am excited to contribute to its growth and development through my work as a software engineer.
 
 [Check out my portfolio](https://portfolio-daniels-not.vercel.app/)
 
