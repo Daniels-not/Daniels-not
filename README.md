@@ -3,16 +3,16 @@
 ### Hi there 👋, I am Ramy Campusano Volquez
 #### Junior Software Engineer
 
-My name is Ramy Campusano Volquez, and I am a software engineer who values simplicity. I am currently studying computer science at Oakwood University, where I am developing my passion for conceptualizing, developing, and deploying ideas to the digital world.
+My name is Ramy Campusano Volquez, and I am a software engineer who values simplicity. I am studying computer science at Oakwood University, developing my passion for conceptualizing, developing, and deploying ideas to the digital world.
 
-As an advocate for higher education, I am committed to advancing my knowledge and skills to reach my goals. When I set my sights on a target, I put my all into achieving it. I believe in the power of the internet to create positive change, and I am excited to contribute to its growth and development through my work as a software engineer.
+As an advocate for higher education, I am committed to advancing my knowledge and skills to reach my goals. When I set my sights on a target, I put my all into achieving it. I believe in the power of the Internet to create positive change, and I am excited to contribute to its growth and development through my work as a software engineer.
 
 [Check out my portfolio](https://portfolio-daniels-not.vercel.app/)
 
         
       🎓 I am currently pursuing my **Bachelor of computer science**.
         
-      🔭 I’m currently working on a **Personal Proyects**
+      🔭 I’m currently working on a **Schedule Tweets App**
         
       🌱 I’m currently learning **ASP.NET**.
         
@@ -34,7 +34,7 @@ As an advocate for higher education, I am committed to advancing my knowledge an
 </p>
 
 ## Currently Learning 📖
-- Next js
+- Ruby on Rails
 
 ## Connect With Me 📱
 
