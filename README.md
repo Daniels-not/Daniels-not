@@ -14,7 +14,7 @@ As an advocate for higher education, I am committed to advancing my knowledge an
         
       🔭 I’m currently working on a **Learning Deep Learning**
         
-      🌱 I’m currently learning **PHP**.
+      🌱 I’m currently learning **ASP.NET CORE WEB API**.
         
       💬 Ask me about **anything**.
         
