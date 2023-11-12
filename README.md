@@ -14,7 +14,7 @@ As an advocate for higher education, I am committed to advancing my knowledge an
         
       🔭 I’m currently working on a **ANDROID DEV**
         
-      🌱 I’m currently learning **KOTLING**.
+      🌱 I’m currently learning **REACT NATIVE**.
         
       💬 Ask me about **anything**.
         
