@@ -1,4 +1,4 @@
-w![Front end developer](https://github.com/Daniels-not/Daniels-not/blob/main/banner.png)
+![Front end developer](https://github.com/Daniels-not/Daniels-not/blob/main/banner.png)
 
 ### Hi there 👋, I am Ramy Campusano Volquez
 #### Junior Software Engineer
@@ -14,7 +14,7 @@ As an advocate for higher education, I am committed to advancing my knowledge an
         
       🔭 I’m currently working on a **ANDROID DEV**
         
-      🌱 I’m currently learning **Kotling**.
+      🌱 I’m currently learning **KOTLIN**.
         
       💬 Ask me about **anything**.
         
@@ -34,8 +34,9 @@ As an advocate for higher education, I am committed to advancing my knowledge an
 </p>
 
 ## Currently Learning 📖
-- Ruby on Rails
 
+()
+<img width="48%" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="#KOTLIN" />
 ## Connect With Me 📱
 
 [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='40'>](https://www.instagram.com/hr_daniels22/) [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/ramy-daniel-campusano-volquez-a110ba14a/)  [<img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14321654/hr-daniels)  
