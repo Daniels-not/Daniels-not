@@ -1,4 +1,4 @@
-![Front end developer](https://github.com/Daniels-not/Daniels-not/blob/main/banner.png)
+w![Front end developer](https://github.com/Daniels-not/Daniels-not/blob/main/banner.png)
 
 ### Hi there 👋, I am Ramy Campusano Volquez
 #### Junior Software Engineer
@@ -12,9 +12,9 @@ As an advocate for higher education, I am committed to advancing my knowledge an
         
       🎓 I am currently pursuing my **Bachelor of computer science**.
         
-      🔭 I’m currently working on a **WEB SCRAPING**
+      🔭 I’m currently working on a **ANDROID DEV**
         
-      🌱 I’m currently learning **PYTHON WEB SCRAPING**.
+      🌱 I’m currently learning **Kotling**.
         
       💬 Ask me about **anything**.
         
