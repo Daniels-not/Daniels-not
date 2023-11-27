@@ -12,9 +12,9 @@ As an advocate for higher education, I am committed to advancing my knowledge an
         
       🎓 I am currently pursuing my **Bachelor of computer science**.
         
-      🔭 I’m currently working on a **ANDROID DEV**
+      🔭 I’m currently working on a ****
         
-      🌱 I’m currently learning **KOTLIN**.
+      🌱 I’m currently learning **Blazor**.
         
       💬 Ask me about **anything**.
         
@@ -35,7 +35,7 @@ As an advocate for higher education, I am committed to advancing my knowledge an
 
 ## Currently Learning 📖
 
-[<img src='https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white' alt='.NET' height='40'>]()
+- Blazor
 
 ## Connect With Me 📱
 
