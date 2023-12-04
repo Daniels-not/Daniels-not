@@ -14,7 +14,7 @@ As an advocate for higher education, I am committed to advancing my knowledge an
         
       🔭 I’m currently working on a ****
         
-      🌱 I’m currently learning **Blazor**.
+      🌱 I’m currently learning ****.
         
       💬 Ask me about **anything**.
         
@@ -35,7 +35,7 @@ As an advocate for higher education, I am committed to advancing my knowledge an
 
 ## Currently Learning 📖
 
-- Blazor
+- Coming Soon 🧑‍💻
 
 ## Connect With Me 📱
 
