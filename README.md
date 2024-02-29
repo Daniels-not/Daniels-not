@@ -14,7 +14,7 @@ As an advocate for higher education, I am committed to advancing my knowledge an
         
       🔭 I’m currently working on a ****
         
-      🌱 I’m currently learning **Data Science**.
+      🌱 I’m currently learning **Ionic**.
         
       💬 Ask me about **anything**.
         
@@ -35,7 +35,9 @@ As an advocate for higher education, I am committed to advancing my knowledge an
 
 ## Currently Learning 📖
 
-- Data Science
+[<img src='https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white' alt='Ionic' height='40'>]()
+
+[<img src='https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8' alt='Cordova' height='40'>]()
 
 ## Connect With Me 📱
 
