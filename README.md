@@ -35,9 +35,7 @@ As an advocate for higher education, I am committed to advancing my knowledge an
 
 ## Currently Learning 📖
 
-[<img src='https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white' alt='Ionic' height='40'>]()
-
-[<img src='https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8' alt='Cordova' height='40'>]()
+[<img src='https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white' alt='Ionic' height='40'>]() [<img src='https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8' alt='Cordova' height='40'>]()
 
 ## Connect With Me 📱
 
