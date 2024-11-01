@@ -12,9 +12,9 @@ As an advocate for higher education, I am committed to advancing my knowledge an
         
       🎓 I am currently pursuing my **Bachelor of computer science**.
         
-      🔭 I’m currently working on a ****
+      🔭 I’m currently working on a **File Sharing App**
         
-      🌱 I’m currently learning **Ionic**.
+      🌱 I’m currently learning **Azure**.
         
       💬 Ask me about **anything**.
         
