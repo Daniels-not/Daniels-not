@@ -3,11 +3,11 @@
 
 I'm a Computer Science senior who ships production web and mobile apps end to end — from React/TypeScript front ends to Node.js, Firebase, Supabase, and PocketBase backends. I currently lead a 12-member team building a university-wide student platform, mentor fellow CS students as a tutor, and publish open-source developer tools other engineers actually use.
 
-📄 [Resume](https://portfolio-new-psi-liard-49.vercel.app/) &nbsp;|&nbsp; 🌐 [Portfolio](https://portfolio-new-psi-liard-49.vercel.app/) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/ramy-campusano-volquez-a110ba14a/) &nbsp;|&nbsp; ☕ [Buy Me a Coffee](https://buymeacoffee.com/ramycampusk)
+📄 [Resume](https://portfolio-new-psi-liard-49.vercel.app/) &nbsp;|&nbsp; 🌐 [Portfolio](https://portfolio-new-psi-liard-49.vercel.app/) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/ramy-daniel-campusano-volquez-a110ba14a/) &nbsp;|&nbsp; ☕ [Buy Me a Coffee](https://buymeacoffee.com/ramydaniel)
 
 - 🚀 **Project Director** for [Campus Connect](https://github.com/oucomputerscienceclub-dot/OU-CampusConnect) at the Oakwood CS Club — led a 12-member cross-functional team to 1,054 unique users and 3,426 page views within 5 days of launch
 - 🔭 Currently building **Campus Companion**, the CS Club's next flagship platform
-- 📦 Published **[usemoor](https://www.npmjs.com/package/usemoor)** — an open-source React hook library for offline-first, optimistic state management
+- 📦 Published **[usemoor](https://www.npmjs.com/package/usemoor)** and **[safe-env-kit](https://www.npmjs.com/package/safe-env-kit)** — open-source npm packages with 300+ weekly downloads
 - 🎓 Tutoring undergrad CS students in front-end/back-end dev, algorithms, and C++
 - 🌱 Currently learning **Microsoft Azure**
 - 💬 Ask me about **React, TypeScript, or full-stack architecture**
@@ -22,7 +22,8 @@ I'm a Computer Science senior who ships production web and mobile apps end to en
 | 🚀 **1,054** unique users | Campus Connect, first 5 days after launch |
 | 📈 **3,426** page views | Same launch window |
 | 👥 **12** developers led | Campus Connect dashboard team |
-| 📦 **1** npm package published | [usemoor](https://www.npmjs.com/package/usemoor) — open-source React hooks |
+| 📦 **2** npm packages published | [usemoor](https://www.npmjs.com/package/usemoor) · [safe-env-kit](https://www.npmjs.com/package/safe-env-kit) |
+| ⬇️ **314** weekly downloads | safe-env-kit — environment variable validation toolkit |
 
 ## 🔭 Currently Building
 
@@ -36,6 +37,7 @@ I'm a Computer Science senior who ships production web and mobile apps end to en
 |---|---|---|
 | **[OakEats](https://github.com/Daniels-not)** | Smart cafeteria PWA demoed to university leadership — live crowd voting, calorie tracking with exportable charts, allergen detection, role-based staff portal | React · TypeScript · Vite · Supabase |
 | **[usemoor](https://www.npmjs.com/package/usemoor)** | Open-source npm package: React hooks for offline-first, optimistic state management with background sync | React · TypeScript · npm |
+| **[safe-env-kit](https://www.npmjs.com/package/safe-env-kit)** | Open-source npm package for validating, managing, and safely accessing environment variables — zero runtime dependencies. 314 weekly downloads | TypeScript · Node.js · npm |
 | **[ResumeAI](https://resumeai-delta-ten.vercel.app)** | Free AI-powered resume builder — 9-step guided form, 5 templates, multi-page PDF export | Next.js · TypeScript · Tailwind · Gemini API |
 | **[Untangle](https://github.com/Daniels-not)** | Reimagines a college-advice chatbot as a visual experience — renders a timeline, decision tree, comparison, or for/against scale live per question | React · TypeScript · AI |
 | **[Campus Connect](https://github.com/oucomputerscienceclub-dot/OU-CampusConnect)** | University-wide student engagement platform — interactive campus map, event discovery, real-time updates | React · Ionic · Node.js · Supabase · Mapbox GL JS |
