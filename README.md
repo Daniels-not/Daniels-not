@@ -3,7 +3,7 @@
 
 I'm a Computer Science senior who ships production web and mobile apps end to end — from React/TypeScript front ends to Node.js, Firebase, Supabase, and PocketBase backends. I currently lead a 12-member team building a university-wide student platform, mentor fellow CS students as a tutor, and publish open-source developer tools other engineers actually use.
 
-📄 [Resume](https://portfolio-new-psi-liard-49.vercel.app/) &nbsp;|&nbsp; 🌐 [Portfolio](https://portfolio-new-psi-liard-49.vercel.app/) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/ramy-daniel-campusano-volquez-a110ba14a/) &nbsp;|&nbsp; ☕ [Buy Me a Coffee](https://buymeacoffee.com/ramydaniel)
+📄 [Resume](https://portfolio-new-psi-liard-49.vercel.app/) &nbsp;|&nbsp; 🌐 [Portfolio](https://portfolio-new-psi-liard-49.vercel.app/) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/ramy-daniel-campusano-volquez-a110ba14a/) &nbsp;|&nbsp; ☕ [Buy Me a Coffee]([https://buymeacoffee.com/ramydaniel](https://buymeacoffee.com/ramycampusk))
 
 - 🚀 **Project Director** for [Campus Connect](https://github.com/oucomputerscienceclub-dot/OU-CampusConnect) at the Oakwood CS Club — led a 12-member cross-functional team to 1,054 unique users and 3,426 page views within 5 days of launch
 - 🔭 Currently building **Campus Companion**, the CS Club's next flagship platform
@@ -12,6 +12,21 @@ I'm a Computer Science senior who ships production web and mobile apps end to en
 - 🌱 Currently learning **Microsoft Azure**
 - 💬 Ask me about **React, TypeScript, or full-stack architecture**
 - ⚡ Fun fact: **you don't have to work in tech to use code** — I got my start bridging tech support and development
+
+---
+
+## 📊 Highlights
+
+| | |
+|---|---|
+| 🚀 **1,054** unique users | Campus Connect, first 5 days after launch |
+| 📈 **3,426** page views | Same launch window |
+| 👥 **12** developers led | Campus Connect dashboard team |
+| 📦 **1** npm package published | [usemoor](https://www.npmjs.com/package/usemoor) — open-source React hooks |
+
+## 🔭 Currently Building
+
+**Campus Companion** — the CS Club's next flagship platform after Campus Connect. Working with a multi-contributor team on a branch-per-developer workflow, shipping new student-facing features on top of what we learned building Campus Connect.
 
 ---
 
@@ -49,17 +64,10 @@ I'm a Computer Science senior who ships production web and mobile apps end to en
 
 ---
 
-## 📈 GitHub Stats
+## 🐍 Contribution Graph
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Daniels-not&show_icons=true&theme=dracula&title_color=c8f05a&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Ramy's GitHub stats" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daniels-not&show_icons=true&theme=dracula&title_color=c8f05a&text_color=ffffff&bg_color=0d1117&hide_border=true&layout=compact" alt="Top languages" />
-</p>
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Daniels-not&theme=dracula&hide_border=true&ring=c8f05a&fire=c8f05a" alt="GitHub streak stats" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Daniels-not&theme=dracula&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+  <img src="https://raw.githubusercontent.com/Daniels-not/Daniels-not/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </p>
 
 ---
