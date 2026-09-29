@@ -43,8 +43,6 @@ I'm a Computer Science senior who ships production web and mobile apps end to en
 | **[Campus Connect](https://github.com/oucomputerscienceclub-dot/OU-CampusConnect)** | University-wide student engagement platform — interactive campus map, event discovery, real-time updates | React · Ionic · Node.js · Supabase · Mapbox GL JS |
 | **[Anchor](https://github.com/Daniels-not)** | Campus wellness PWA — mood logging, animated insights dashboard, lightweight messaging | React · TypeScript · Framer Motion |
 
-*(Fill in any repo links above that are still pointing at my profile — happy to swap in the exact URLs.)*
-
 ---
 
 ## 🚀 Skills
